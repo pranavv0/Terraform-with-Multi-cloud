@@ -1,5 +1,5 @@
 # Terraform-with-Multi-cloud
-Deploy the Wordpress application on Kubernetes and AWS using terraform including the following steps;
+Deploy the Wordpress application on Kubernetes and AWS-RDS using terraform including the following steps;
 
 
 1.  Write an Infrastructure as code using terraform, which automatically deploy the Wordpress application
